@@ -7,9 +7,6 @@
  <img src="https://github-widgetbox.vercel.app/api/profile?username=starryChina&data=followers,repositories,stars,commits&theme=nautilus" align="center" alt="Stats" />
 </p>
 
-<img align="right" alt="Damn i love gura" src="Gura.webp" width="50%" height="auto"/>
-
-<div align="center">
  
  <hr/><h3>🌱 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 🌱</h3>
  <p>💖 叫我<b>starry</b>或<b>Are</b></p>
