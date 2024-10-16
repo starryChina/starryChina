@@ -18,7 +18,7 @@
  <p>✨ 自述来自KARPED1EM </p>
 
  <hr/><h3 align="center">💕 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 💕</h3>
- <a href="mailto:qq153233737@163.com" target="_blank"><img src="https://img.shields.io/badge/Gmail%20-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335"/></a>
+ <a href="mailto:qq153233737@163.com" target="_blank"><img src="https://github.com/starryChina/starryChina/blob/main/GMAIL.svg"/></a>
  <a href="https://space.bilibili.com/353211524" target="_blank"><img src="https://img.shields.io/badge/Bilibili%20-%231DA1F2.svg?&style=for-the-badge&logo=bilibili&logoColor=white&color=fb7299"/></a>
   <a href="https://raw.githubusercontent.com/starryChina/starryChina/refs/heads/main/Weixin.webp" target="_blank"><img src="https://img.shields.io/badge/Wechat%20-%231DA1F2.svg?&style=for-the-badge&logo=wechat&logoColor=white&color=08c160"/></a>
   <a href="https://raw.githubusercontent.com/starryChina/starryChina/refs/heads/main/QQ.webp" target="_blank"><img src="https://img.shields.io/badge/QQ%20-%231DA1F2.svg?&style=for-the-badge&logo=Tencent+QQ&logoColor=white&color=1e6fff"/></a>
