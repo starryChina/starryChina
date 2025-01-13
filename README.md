@@ -2,10 +2,6 @@
 
 <br/>
 
-<p align="center">
- <img src="https://github-widgetbox.vercel.app/api/profile?username=starryChina&data=followers,repositories,stars,commits&theme=nautilus" align="center" alt="Stats" />
-</p>
-
 <img align="right" alt="Damn i love gura" src="miku.webp" width="50%" height="auto"/>
 
 <div align="center">
