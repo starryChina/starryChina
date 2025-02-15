@@ -15,7 +15,7 @@
  <p>✨ 写代码是热爱</p>
  <p>🌸 请带我去二次元</p>
  <p>🗽 自由/平等/和平</p>
- <p>✨ 自述来自KARPED1EM </p>
+ <p>✨ QQ：2504352257 可以来找我聊天喔天天都在huh </p>
 
  <hr/><h3 align="center">💕 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 💕</h3>
  <a href="mailto:starrynet@126.com" target="_blank"><img src="https://github.com/starryChina/starryChina/blob/main/GMAIL.svg"/></a>
