@@ -11,7 +11,7 @@
 <div align="center">
  
  <hr/><h3>🌱 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 🌱</h3>
- <p>💖 叫我<b>starry<b></p>
+ <p>💖 叫我Starry</p>
  <p>✨ 写代码是热爱</p>
  <p>🌸 请带我去二次元</p>
  <p>🗽 自由/平等/和平</p>
@@ -26,5 +26,6 @@
  </br></br>
  
  <img src="6784cf12364c8.gif" width="12%" height="auto"/>
+ <a href="&lt;img src="https://img.miku.ren/i/2025/01/13/6784cf12364c8.gif" target="_blank"><img src="&lt;img src="https://img.miku.ren/i/2025/01/13/6784cf12364c8.gif"/></a>
  
 </div>
