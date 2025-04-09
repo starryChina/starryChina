@@ -25,6 +25,6 @@
  
  </br></br>
  
- <img src="https://img.miku.ren/i/2025/01/13/6784cf12364c8.gif" /&gt;" width="12%" height="auto"/>
+ <img src="GIF2.gif" /&gt;" width="12%" height="auto"/>
  
 </div>
