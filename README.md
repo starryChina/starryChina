@@ -6,7 +6,7 @@
 
 <br/>
 
-<img align="right" alt="Damn i love gura" src="miku.webp" width="50%" height="auto"/>
+<img align="right" alt="Damn i love gura" src="https://img.miku.ren/i/2025/04/09/67f651f1b71da.webp" width="50%" height="auto"/>
 
 <div align="center">
  
