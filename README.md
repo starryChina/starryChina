@@ -20,8 +20,8 @@
  <hr/><h3 align="center">💕 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 💕</h3>
  <a href="mailto:starrynet@126.com" target="_blank"><img src="https://github.com/starryChina/starryChina/blob/main/GMAIL.svg"/></a>
  <a href="https://space.bilibili.com/353211524" target="_blank"><img src="https://github.com/starryChina/starryChina/blob/main/BILIBILI.svg"/></a>
-  <a href="https://img.miku.ren/i/2025/04/09/67f65194caf3e.jpg" target="_blank"><img src="https://github.com/starryChina/starryChina/blob/main/WECHAT.svg"/></a>
-  <a href="https://img.miku.ren/i/2025/04/09/67f65194ca97f.jpg" target="_blank"><img src="https://github.com/starryChina/starryChina/blob/main/QQ.svg"/></a>
+  <a href="https://img.miku.ren/i/2025/04/09/67f65194ca97f.jpg" target="_blank"><img src="https://github.com/starryChina/starryChina/blob/main/WECHAT.svg"/></a>
+  <a href="https://img.miku.ren/i/2025/04/09/67f65194caf3e.jpg" target="_blank"><img src="https://github.com/starryChina/starryChina/blob/main/QQ.svg"/></a>
  
  </br></br>
  
